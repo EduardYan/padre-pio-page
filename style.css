@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&family=Noto+Serif&display=swap");
+
+body {
+  background-color: #fbfbff;
+  font-family: "Noto Serif", serif;
+}
+
+.navbar {
+  background-color: #f1bf98;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #f1bf98;
+}
